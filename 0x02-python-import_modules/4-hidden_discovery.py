@@ -1,4 +1,3 @@
-able File  10 lines (8 sloc)  224 Bytes
 #!/usr/bin/python3
 
 if __name__ == "__main__":
