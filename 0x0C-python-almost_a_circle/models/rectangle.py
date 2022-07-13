@@ -147,7 +147,3 @@ def __init__(self, width, height, x=0, y=0, id=None):
         def __str__(self):
             """Return the print() and str() representation of the rectangle."""
             return "[Rectangle] ({}) {}/{} - {}/{}.format(self.id, self.x, self.y, self.width, self.height)
-
-
-
-
